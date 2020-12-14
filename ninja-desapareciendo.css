@@ -1,0 +1,31 @@
+#container{
+  background-color: rgb(199, 96, 116);
+  min-height: auto;
+  background-size: cover; 
+  background-repeat: no-repeat;
+  padding: 10px;
+  color: white;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+img {
+  width: 200px;
+  height: 200px;
+  border: 5px solid gray;
+  border-radius: 9px;
+  box-shadow: ivory;
+}
+.btn-restored{
+  margin-top: 25px;
+  background-color: rgb(117,154,181);
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+  height: 35px;
+  align-items: center;
+  color: white;
+  font-size: 15px;
+  border: 1px solid black;
+}
